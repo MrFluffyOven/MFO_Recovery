@@ -10,3 +10,4 @@ A readme file with links to all my recovery projects
  - [Galaxy S24 FE Exynos r12s](https://github.com/TNDRP/android_device_samsung_r12s)
  - [Galaxy M55xq](https://github.com/TNDRP/android_device_samsung_m55xq)
  - [Galaxy M14](https://github.com/TNDRP/android_device_samsung_m14)
+ - [Galaxy Tab A9 mtk](https://github.com/TNDRP/android_device_samsung_gta9)
