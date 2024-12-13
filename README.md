@@ -5,4 +5,4 @@ A readme file with links to all my recovery projects
  - [Galaxy A05s](https://github.com/galaxy-a05s/android_device_samsung_a05sxx)
  - [Galaxy A16 mtk](https://github.com/galaxy-a16/android_device_samsung_a16xm)
  - [Galaxy A16 exynos](https://github.com/galaxy-a16/android_device_samsung_a16x)
- - [Galaxy Tab A8]()
+ - [Galaxy Tab A8](https://github.com/mfo-discontinued/android_device_samsung_gta8wifi)
