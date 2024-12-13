@@ -9,5 +9,5 @@ There are other devices that may not be listed, im open to continue the developm
  - [Galaxy S23 FE Snapdragon (r11q)](https://github.com/TNDRP/android_device_samsung_r11q)
  - [Galaxy S24 FE Exynos (r12s)](https://github.com/TNDRP/android_device_samsung_r12s)
  - [Galaxy M55 Snapdragon (m55xq)](https://github.com/TNDRP/android_device_samsung_m55xq)
- - [Galaxy m14 Snapdragon (a05s)](https://github.com/TNDRP/android_device_samsung_m14)
+ - [Galaxy M14 Snapdragon (a05s)](https://github.com/TNDRP/android_device_samsung_m14)
  - [Galaxy Tab A9 Mediatek (gta9)](https://github.com/TNDRP/android_device_samsung_gta9)
