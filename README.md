@@ -1,7 +1,7 @@
 # MFO_Recovery
 There are other devices that may not be listed, im open to continue the development of them if testers appear
 
- - [Galaxy A35 5G](https://github.com/TNDRP/android_device_samsung_a35x)
+ - [Galaxy A35 5G Exynos (a35x)](https://github.com/TNDRP/android_device_samsung_a35x)
  - [Galaxy A05s Snapdragon (a05s)](https://github.com/galaxy-a05s/android_device_samsung_a05sxx)
  - [Galaxy A16 Mediatek (a16xm)](https://github.com/galaxy-a16/android_device_samsung_a16xm)
  - [Galaxy A16 Exynos (a16x)](https://github.com/galaxy-a16/android_device_samsung_a16x)
